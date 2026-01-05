@@ -6,5 +6,7 @@ people = [cole, eugene]
 for person in people:
     if person == 'master':
         print("Hello, Master!")
-    else:
-        print("Hello, Guest!")
+    elif person == 'not master':
+        print("Hello, Loser!")
+    else
+        print("Hello, Stranger!")
