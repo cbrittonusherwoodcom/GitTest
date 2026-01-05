@@ -10,3 +10,5 @@ for person in people:
         print("Hello, Loser!")
     else
         print("Hello, Stranger!")
+
+print('goober')
