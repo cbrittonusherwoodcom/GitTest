@@ -8,7 +8,7 @@ for person in people:
         print("Hello, Master!")
     elif person == 'not master':
         print("Hello, Loser!")
-    else
+    else:
         print("Hello, Stranger!")
 
 print('goober')
