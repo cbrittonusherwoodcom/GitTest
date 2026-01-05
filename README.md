@@ -1,1 +1,2 @@
-# this is a test of git in vscode
+
+# this is a test of git in vscode GitTest
